@@ -1,0 +1,166 @@
+.header-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 60px;
+  overflow: hidden;
+}
+.page-not-found {
+  margin: 0;
+}
+.page-not-found-container {
+  position: absolute;
+  top: 93.7px;
+  left: 63.7px;
+  letter-spacing: 4px;
+  line-height: 40px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 249.2px;
+  height: 32.6px;
+}
+.we-cant-find {
+  position: absolute;
+  top: 261.6px;
+  left: 51.5px;
+  line-height: 28px;
+  display: inline-block;
+  width: 272.1px;
+  height: 69.9px;
+}
+.tailors-dummy-icon {
+  position: absolute;
+  top: 189px;
+  left: 162.5px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.forward-arrow-icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  object-fit: contain;
+}
+.home-page1 {
+  position: relative;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.button8 {
+  position: absolute;
+  top: 353px;
+  left: 86px;
+  background-color: var(--grayscale-title-active);
+  backdrop-filter: blur(4px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-11xl);
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--body-l-size);
+  color: var(--grayscale-off-white);
+  font-family: var(--font-poppins);
+}
+.footer-child4,
+.footer-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 340px;
+}
+.footer-child5 {
+  top: 294.8px;
+  background-color: var(--color-silver);
+  height: 45.2px;
+  opacity: 0.1;
+}
+.icon16,
+.icon17 {
+  position: absolute;
+  top: 71.8px;
+  left: 125px;
+  width: 125px;
+  height: 9.3px;
+}
+.icon17 {
+  top: 206.5px;
+}
+.instagram-icon3,
+.twitter-icon4,
+.youtube-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.instagram-icon3,
+.youtube-icon3 {
+  left: 69px;
+}
+.youtube-icon3 {
+  left: 138px;
+}
+.twitter-parent1 {
+  position: absolute;
+  top: 23.8px;
+  left: 106.5px;
+  width: 162px;
+  height: 24px;
+}
+.about3,
+.blog3,
+.contact3 {
+  position: absolute;
+  top: 247.8px;
+  left: 58px;
+  line-height: 24px;
+}
+.blog3,
+.contact3 {
+  left: 157px;
+}
+.blog3 {
+  left: 270px;
+}
+.supportclassystore-12-123-container3 {
+  position: absolute;
+  top: 99.8px;
+  left: 95px;
+  line-height: 184%;
+  color: var(--grayscale-body);
+}
+.designed-by-revanth3 {
+  position: absolute;
+  top: 305.8px;
+  left: 126.5px;
+  font-size: var(--body-small-size);
+  line-height: 158.5%;
+  color: var(--grayscale-label);
+}
+.footer3 {
+  position: absolute;
+  top: 457px;
+  left: 0;
+  width: 375px;
+  height: 340px;
+  font-size: var(--body-l-size);
+}
+.div27 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 797px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-size);
+  color: var(--grayscale-title-active);
+  font-family: var(--title);
+}

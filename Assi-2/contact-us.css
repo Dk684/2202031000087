@@ -1,0 +1,231 @@
+.header-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 60px;
+  overflow: hidden;
+}
+.contact-us1 {
+  position: absolute;
+  top: 93.7px;
+  left: 75.6px;
+  font-size: var(--title-size);
+  letter-spacing: 4px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: var(--grayscale-title-active);
+  text-align: center;
+  display: inline-block;
+  width: 225.5px;
+  height: 32.6px;
+}
+.icon10,
+.need-an-asap {
+  position: absolute;
+  top: 126.3px;
+  left: 125.9px;
+  width: 125px;
+  height: 9.3px;
+}
+.need-an-asap {
+  top: 66px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 344.6px;
+  height: 67.7px;
+}
+.chat-message-icon {
+  position: absolute;
+  top: 0;
+  left: 148.1px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.chat-with-us {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.button4 {
+  position: absolute;
+  top: 150px;
+  left: 79.6px;
+  background-color: var(--grayscale-title-active);
+  backdrop-filter: blur(4px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-11xl);
+  color: var(--grayscale-off-white);
+  font-family: var(--font-poppins);
+}
+.need-an-asap-answer-contact-u-parent,
+.you-can-text {
+  position: absolute;
+  top: 186px;
+  left: 14.4px;
+  width: 344.6px;
+  height: 190px;
+}
+.you-can-text {
+  top: 66px;
+  left: 0;
+  line-height: 23px;
+  display: inline-block;
+  height: 199.7px;
+}
+.button5 {
+  position: absolute;
+  top: 281.3px;
+  left: 107.6px;
+  background-color: var(--grayscale-title-active);
+  backdrop-filter: blur(4px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-11xl);
+  color: var(--grayscale-off-white);
+  font-family: var(--font-poppins);
+}
+.add-message-icon {
+  position: absolute;
+  top: 0;
+  left: 144.6px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.you-can-text-us-at-800-309-262-parent {
+  position: absolute;
+  top: 435.7px;
+  left: 14.4px;
+  width: 344.6px;
+  height: 321.3px;
+}
+.facebook {
+  text-decoration: underline;
+}
+.to-send-us-container {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  line-height: 23px;
+  display: inline-block;
+  width: 344.6px;
+  height: 122.6px;
+}
+.to-send-us-a-private-or-direct-parent {
+  position: absolute;
+  top: 817.4px;
+  left: 14.4px;
+  width: 344.6px;
+  height: 188.6px;
+}
+.footer-child2,
+.footer-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 340px;
+}
+.footer-child3 {
+  top: 294.8px;
+  background-color: var(--color-silver);
+  height: 45.2px;
+  opacity: 0.1;
+}
+.icon11,
+.icon12 {
+  position: absolute;
+  top: 71.8px;
+  left: 125px;
+  width: 125px;
+  height: 9.3px;
+}
+.icon12 {
+  top: 206.5px;
+}
+.instagram-icon2,
+.twitter-icon3,
+.youtube-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.instagram-icon2,
+.youtube-icon2 {
+  left: 69px;
+}
+.youtube-icon2 {
+  left: 138px;
+}
+.twitter-container {
+  position: absolute;
+  top: 23.8px;
+  left: 106.5px;
+  width: 162px;
+  height: 24px;
+}
+.about2,
+.blog2,
+.contact2 {
+  position: absolute;
+  top: 247.8px;
+  left: 58px;
+  line-height: 24px;
+}
+.blog2,
+.contact2 {
+  left: 157px;
+}
+.blog2 {
+  left: 270px;
+}
+.supportclassystore2 {
+  margin: 0;
+}
+.supportclassystore-12-123-container2 {
+  position: absolute;
+  top: 99.8px;
+  left: 95px;
+  line-height: 184%;
+  color: var(--grayscale-body);
+}
+.designed-by-revanth2 {
+  position: absolute;
+  top: 305.8px;
+  left: 126.5px;
+  font-size: var(--body-small-size);
+  line-height: 158.5%;
+  color: var(--grayscale-label);
+}
+.footer2 {
+  position: absolute;
+  top: 1032px;
+  left: 0;
+  width: 375px;
+  height: 340px;
+  text-align: center;
+  color: var(--grayscale-title-active);
+}
+.contact-us {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1374px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-l-size);
+  color: var(--grayscale-body);
+  font-family: var(--title);
+}

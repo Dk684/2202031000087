@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --title: "Tenor Sans";
+  --font-agne: Agne;
+  --font-manrope: Manrope;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --body-small-size: 12px;
+  --body-l-size: 16px;
+  --font-size-19xl-7: 38.7px;
+  --sub-title-14-size: 14px;
+  --title-size: 18px;
+  --price-size: 15px;
+  --font-size-22xl-9: 41.9px;
+  --mobile-text-small-regular-size: 13px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --grayscale-off-white: #fcfcfc;
+  --grayscale-placehoder: #888;
+  --secondery-default: #212806;
+  --color-gray-100: #1a1a1a;
+  --color-gray-200: #17181a;
+  --grayscale-label: #555;
+  --grayscale-body: #333;
+  --grayscale-title-active: #000;
+  --color-silver: #c4c4c4;
+  --color-white: #fff;
+  --primary-default: #dd8560;
+  --grayscale-border: #dedede;
+  --grayscale-input-bg: #f9f9f9;
+  --grayscale-line: #e0cfba;
+  --grayscale-background: #f8f0e7;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-11xl: 30px;
+  --padding-xs: 12px;
+  --padding-9xs: 4px;
+  --padding-smi: 13px;
+  --padding-xl: 20px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-25xl: 44px;
+}
